@@ -1,0 +1,17 @@
+body {
+    background: gold;
+}
+
+body h1 {
+    color: #1828b8; //hex-color
+}
+
+body p {
+
+}
+
+body p {
+    margin-left: 350px;
+    border-left: 5px dotted black;
+    border-bottom: 5px solid black;
+}
